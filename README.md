@@ -1,6 +1,6 @@
 #Basic Project
 
-*Simple Java Project*
+*employee-entry*
 
 **Java 7**
 
