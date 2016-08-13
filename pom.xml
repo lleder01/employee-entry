@@ -4,7 +4,7 @@
   <artifactId>jave-basics</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Java Basics Project</name>
-  <description>Java Project which focuses on Java Fundamentals</description>
+  <description> Array project: Employee entry</description>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
